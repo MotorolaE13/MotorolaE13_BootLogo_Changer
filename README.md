@@ -2,7 +2,7 @@
 I was playing with my recently unlocked Motorola E13 and i stumbled upon the logo partition, I thought it would be fun to tell the AI to reverse engineer the original logo.bin and make me a python program to be able to change the logos to my liking.
 
 ## Usage
-**IMPORTANT:** You must unlock the bootloader on the Motorola E13 using the [CVE-2022-38694](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader) before attempting this mod, otherwise the phone may result in a bootloop.
+**IMPORTANT:** You must unlock the bootloader on the Motorola E13 using the [CVE-2022-38694](https://github.com/MotorolaE13/CVE-2022-38694_unlock_bootloader) before attempting this mod, otherwise the phone may result in a bootloop.
 
 - Usage:
   
